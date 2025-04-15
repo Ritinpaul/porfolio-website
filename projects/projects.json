@@ -1,0 +1,43 @@
+[
+    {
+      "name": "MERN-Ecommerce-Website",
+      "image": "images/projects/project1",
+      "links": {
+        "view": "https://github.com/Ritinpaul/MERN-Ecommerce-Website"
+  
+      }
+    },
+    {
+      "name": "Agri-Guard",
+      "image": "images/projects/project1",
+      "links": {
+        "view": "https://github.com/Ritinpaul/Agri-Guard"
+  
+      }
+    },
+    {
+      "name": "Wander_Camp",
+      "image": "images/projects/project1",
+      "links": {
+        "view": "https://github.com/Ritinpaul/Wander_Camp"
+  
+      }
+    },
+    {
+      "name": "ZapPay",
+      "image": "images/projects/project1",
+      "links": {
+        "view": "https://github.com/Ritinpaul/ZapPay"
+  
+      }
+    },
+    {
+      "name": "bibliophile-swap",
+      "image": "images/projects/project1",
+      "links": {
+        "view": "https://github.com/Ritinpaul/bibliophile-swap"
+  
+      }
+    }
+    
+ ]
